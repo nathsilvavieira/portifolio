@@ -1,0 +1,18 @@
+div#main{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    img.foto{
+        display: flex;
+        align-self: center;
+        padding: 10px;
+        width: 150px;
+        border-radius: 50%;
+    }
+    div.text{
+        display: block;
+        align-items: center;
+        justify-content: center;
+        padding: 15px;
+    }
+}

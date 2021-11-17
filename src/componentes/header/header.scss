@@ -1,0 +1,19 @@
+div#header{
+    background-color: #6aaae1;
+    display: flex;
+    justify-content:space-between;
+    align-items: flex-start;
+    nav{
+        display: flex;
+        align-items: center;
+        margin-top: 10px;
+        a.menu{
+            display: inline;
+            text-decoration: none;
+            color:black;
+            margin: 10px;
+            
+        }
+        
+    }
+}
