@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "/static/css/main.5b7976c2.chunk.css",
-    "main.js": "/static/js/main.712d2aa1.chunk.js",
-    "main.js.map": "/static/js/main.712d2aa1.chunk.js.map",
+    "main.css": "/static/css/main.2dd88a54.chunk.css",
+    "main.js": "/static/js/main.12b7522d.chunk.js",
+    "main.js.map": "/static/js/main.12b7522d.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.c08cb01e.js",
     "runtime-main.js.map": "/static/js/runtime-main.c08cb01e.js.map",
     "static/css/2.383c0125.chunk.css": "/static/css/2.383c0125.chunk.css",
@@ -10,13 +10,12 @@
     "static/js/2.8b46e803.chunk.js.map": "/static/js/2.8b46e803.chunk.js.map",
     "index.html": "/index.html",
     "static/css/2.383c0125.chunk.css.map": "/static/css/2.383c0125.chunk.css.map",
-    "static/css/main.5b7976c2.chunk.css.map": "/static/css/main.5b7976c2.chunk.css.map",
+    "static/css/main.2dd88a54.chunk.css.map": "/static/css/main.2dd88a54.chunk.css.map",
     "static/js/2.8b46e803.chunk.js.LICENSE.txt": "/static/js/2.8b46e803.chunk.js.LICENSE.txt",
     "static/media/banner.scss": "/static/media/aprender-react.2b8ce9fc.png",
     "static/media/foto.3093bc84.jpg": "/static/media/foto.3093bc84.jpg",
     "static/media/github.05f6c17b.png": "/static/media/github.05f6c17b.png",
     "static/media/linkedin.f249b382.png": "/static/media/linkedin.f249b382.png",
-    "static/media/n.29e418b8.png": "/static/media/n.29e418b8.png",
     "static/media/podcast.fa15b1f3.png": "/static/media/podcast.fa15b1f3.png",
     "static/media/to-do-list.6ff80b1c.png": "/static/media/to-do-list.6ff80b1c.png"
   },
@@ -24,7 +23,7 @@
     "static/js/runtime-main.c08cb01e.js",
     "static/css/2.383c0125.chunk.css",
     "static/js/2.8b46e803.chunk.js",
-    "static/css/main.5b7976c2.chunk.css",
-    "static/js/main.712d2aa1.chunk.js"
+    "static/css/main.2dd88a54.chunk.css",
+    "static/js/main.12b7522d.chunk.js"
   ]
 }
