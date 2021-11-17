@@ -2,11 +2,14 @@ div #Contato{
     background-color: #6aaae1;
     font-size: 16px;
     text-align: center;   
-    height: 12vh;
+    height: 20vh;
+    padding: 20px;
     
     a.contato{
-        margin: 10px;
-        text-decoration: none;
-        color:black;
+        img{
+            width: 30px;
+            margin: 5px
+        }
+        
     }
 }
