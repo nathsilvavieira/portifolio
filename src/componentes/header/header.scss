@@ -1,9 +1,10 @@
-div#header{
+.header{
     background-color: #6aaae1;
     display: flex;
     justify-content:space-between;
     align-items: flex-start;
-    nav{
+    
+   /*nav{
         display: flex;
         align-items: center;
         margin-top: 10px;
@@ -15,5 +16,5 @@ div#header{
             
         }
         
-    }
+    }*/
 }

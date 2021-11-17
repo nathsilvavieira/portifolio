@@ -1,5 +1,5 @@
 /* eslint-disable jsx-a11y/anchor-is-valid */
-/*import 'bootstrap/dist/css/bootstrap.min.css';*/
+import 'bootstrap/dist/css/bootstrap.min.css';
 import  './header.scss';
 import logo from './n.png'
 
@@ -8,20 +8,28 @@ import logo from './n.png'
 function Header() {
 
     return(
-        <div id="header">
-            
-            <nav class="navbar navbar-light bg-light">
-            <a id="logo">
-                <img src={logo} alt="" width="100" height="35" class="d-inline-block align-text-top"/>
-            </a>
-            
-                <a class="menu" href="#">Home</a> 
-                <a class="menu" href="#Portifolio">Portifolio</a> 
-                <a class="menu" href="#Contato">Contato</a>
+        <header className = "header">
+        
+            <nav class="navbar navbar-expand-lg ">
+                <a class="navbar-brand text-light" href="#"> Meu Portifolio</a>
+                <div class=" navbar-collapse " id="navbar">
+                    <ul class="navbar-nav">
+                        <li class="nav-item">
+                            <a class="nav-link text-light" href="#">Home</a>
+                        </li>
+                        <li class="nav-item">
+                            <a class="nav-link text-light" href="#Portifolio">Portifolio</a>
+                        </li>
+                        <li class="nav-item">
+                            <a class="nav-link text-light" href="#Contato">Contato</a>
+                        </li>
+
+                    </ul>
+                </div>
             </nav>
-             
-        </div>
-    )
+        </header>
+    );
+    
 }
 
 export default Header;
