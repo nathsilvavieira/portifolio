@@ -3,11 +3,6 @@ div#galeria {
     align-items: center;
     justify-content: center;
     text-align: center;
-
-    /*h1{
-      display: block;
-
-    }*/
     
     div.card{
       display: grid;
@@ -29,6 +24,6 @@ div#galeria {
           color:black;
         }
       }
-    };
+    }
     
   }
