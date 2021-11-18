@@ -4,13 +4,15 @@ div#galeria {
     justify-content: center;
     text-align: center;
 
-    h1{
+    /*h1{
       display: block;
 
-    }
+    }*/
     
     div.card{
-      display: flex;
+      display: grid;
+      grid-template-rows: 1;
+      grid-template-columns: 1fr 1fr 1fr;
       justify-content:space-between;
       align-items: center;
       gap: 5px;

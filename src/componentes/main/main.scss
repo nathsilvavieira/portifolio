@@ -2,11 +2,13 @@ div#main{
     display: flex;
     justify-content: center;
     align-items: center;
+    margin: 5rem;
+
     img.foto{
         display: flex;
         align-self: center;
-        padding: 10px;
-        width: 150px;
+        padding: 15px;
+        width: 15rem;
         border-radius: 50%;
     }
     div.text{
@@ -14,5 +16,8 @@ div#main{
         align-items: center;
         justify-content: center;
         padding: 15px;
+        p{
+            margin-top: 5px;
+        }
     }
 }
